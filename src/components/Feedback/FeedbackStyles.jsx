@@ -52,7 +52,6 @@ export const Button = styled.button`
 export const Container = styled.div`
   margin-left: auto;
   margin-right: auto;
-  width: 600px;
   margin-top: 30px;
   margin-bottom: 40px;
 `;
